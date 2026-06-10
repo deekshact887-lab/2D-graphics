@@ -1,0 +1,18 @@
+PROMPT 1:
+Create a menu-driven C program that simulates a 30×30 drawing canvas using a 2D character array. Initialize the canvas with underscores (_) and provide an option to display the canvas.
+RESPONSE:
+Generated code for a 30×30 canvas using a 2D character array with initializeCanvas() and displayCanvas() functions.
+PROMPT 2:
+Add functions to draw geometric shapes such as rectangles, horizontal/vertical lines, triangles, and circles on the canvas using the '*' character.
+RESPONSE:
+Generated drawRectangle(), drawLine(), drawTriangle(), and drawCircle() functions to create shapes on the canvas.
+PROMPT 3:
+Implement functionality to delete a selected rectangular area from the canvas by replacing characters with underscores.
+RESPONSE:
+Generated deleteArea() function that clears a specified region of the canvas.
+PROMPT 4:
+Add modify operations for rectangles, lines, triangles, and circles. The old shape should be deleted and a new shape drawn with updated parameters.
+RESPONSE:
+Generated modifyRectangle(), modifyLine(), modifyTriangle(), and modifyCircle() functions.
+
+
